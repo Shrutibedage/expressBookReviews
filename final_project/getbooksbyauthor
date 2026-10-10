@@ -1,2 +1,2 @@
-C:\Users\shrut>curl.exe "http://localhost:5000/author/Jane%20Austen"
+curl.exe "http://localhost:5000/author/Jane%20Austen"
 [{"author":"Jane Austen","title":"Pride and Prejudice","reviews":{}}]
