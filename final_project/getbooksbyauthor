@@ -1,3 +1,2 @@
-curl http://localhost:5000/author/Chinua%20Achebe
-
-[{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}]
+C:\Users\shrut>curl.exe "http://localhost:5000/author/Jane%20Austen"
+[{"author":"Jane Austen","title":"Pride and Prejudice","reviews":{}}]
